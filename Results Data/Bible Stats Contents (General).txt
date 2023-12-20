@@ -1,0 +1,111 @@
+Overall Bible Statistics: 66 Books, 1,189 Chapters, ~31,200 Verses, ~780,000 Words
+Old Testament: (39 Books, 929 Chapters, ~23,150 Verses, ~600,000 Words)
+New Testament: (27 Books, 260 Chapters, ~8,000 Verses, ~181,000 Words)
+
+-----------------------------------------------------------------------------------------
+
+Pentateuch: (5 Books, 187 Chapters, ~5,850 Verses, ~153,000 Words)
+History: (12 Books, 249 Chapters, ~7,000 Verses, ~210,000 Words)
+Poetry: (5 Books, 243 Chapters, ~4,785 Verses, ~84,400 Words)
+Major Prophets: (5 Books, 183 Chapters, ~4,440 Verses, ~134,100 Words)
+Minor Prophets: (12 Books, 67 Chapters, ~1,050 Verses, ~31,400 Words)
+
+Gospels: (4 Books, 89 Chapters, ~3,770 Verses, ~80,000 Words)
+History: Acts -> (28 Chapters, ~1,010 Verses, ~24,500 Words)
+The Pauline Epistles: (13 Books, 87 Chapters, ~2140 Verses, ~43,700 Words)
+General Epistles: (8 Books, 34 Chapters, ~730 Verses, ~16,900 Words)
+Apocrypha: Revelations -> (22 Chapters, ~400 Verses, ~11,950 Words)
+
+-----------------------------------------------------------------------------------------
+
+Pentateuch: (5 Books, 187 Chapters, ~5,850 Verses, ~153,000 Words)
+Genesis -> (50 Chapters, ~1,550 Verses, ~35,000 Words)
+Exodus -> (40 Chapters, ~1,210 Verses, ~32,700 Words)
+Leviticus -> (27 Chapters, ~860 Verses, ~24,500 Words)
+Numbers -> (36 Chapters, ~1,290 Verses, ~32,900 Words)
+Deuteronomy -> (34 Chapters, ~960 Verses, ~28,000 Words)
+
+History: (12 Books, 249 Chapters, ~7,000 Verses, ~210,000 Words)
+Joshua -> (24 Chapters, ~660 Verses, ~18,600 Words)
+Judges -> (21 Chapters, ~620 Verses, ~18,500 Words)
+Ruth -> (4 Chapters, ~85 Verses, ~2,570 Words)
+1 Samuel -> (31 Chapters, ~810 Verses, ~25,500 Words)
+2 Samuel -> (24 Chapters, ~695 Verses, ~24,000 Words)
+1 Kings -> (22 Chapters, ~815 Verses, ~25,000 Words)
+2 Kings -> (25 Chapters, ~720 Verses, ~23,500 Words)
+1 Chronicles -> (29 Chapters, ~940 Verses, ~20,350 Words)
+2 Chronicles -> (36 Chapters, ~820 Verses, ~26,100 Words)
+Ezra -> (10 Chapters, ~280 Verses, ~7,450 Words)
+Nehemiah -> (13 Chapters, ~405 Verses, ~12,000 Words)
+Esther -> (10 Chapters, ~170 Verses, ~5,600 Words)
+
+Poetry: (5 Books, 243 Chapters, ~4,785 Verses, ~84,400 Words)
+Job -> (42 Chapters, ~1,070 Verses, ~18,100 Words)
+Psalms -> (150 Chapters, ~2,460 Verses, ~43,000 Words)
+Proverbs -> (31 Chapters, ~915 Verses, ~15,050 Words)
+Ecclesiastes -> (12 Chapters, ~220 Verses, ~5,580 Words)
+Songs of Solomon -> (8 Chapters, ~120 Verses, ~2,650 Words)
+
+Major Prophets: (5 Books, 183 Chapters, ~4,440 Verses, ~134,100 Words)
+Isaiah -> (66 Chapters, ~1,290 Verses, ~37,400 Words)
+Jeremiah -> (52 Chapters, ~1,365 Verses, ~42,650 Words)
+Lamentations -> (5 Chapters, ~155 Verses, ~3,010 Words)
+Ezekiel -> (48 Chapters, ~1,275 Verses, ~39,400 Words)
+Daniel -> (12 Chapters, ~360 Verses, ~11,600 Words)
+
+Minor Prophets: (12 Books, 67 Chapters, ~1,050 Verses, ~31,400 Words)
+Hosea -> (14 Chapters, ~200 Verses, ~5,170 Words)
+Joel -> (3 Chapters, ~75 Verses, ~2,030 Words)
+Amos -> (9 Chapters, ~145 Verses, ~4,250 Words)
+Obadiah -> (1 Chapter, 21 Verses, ~670 Words)
+Jonah -> (4 Chapters, ~50 Verses, ~1,320 Words)
+Micah -> (7 Chapters, ~105 Verses, ~3,150 Words)
+Nahum -> (3 Chapters, ~50 Verses, ~1,300 Words)
+Habakkuk -> (3 Chapters, ~55 Verses, ~1,480 Words)
+Zephaniah -> (3 Chapters, ~50 Verses, ~1,620 Words)
+Haggai -> (2 Chapters, ~40 Verses, ~1,130 Words)
+Zechariah -> (14 Chapters, ~210 Verses, ~6,450 Words)
+Malachi -> (4 Chapters, ~55 Verses, ~1,780 Words)
+
+-----------------------------------------------------------------------------------------
+
+Gospels: (4 Books, 89 Chapters, ~3,770 Verses, ~80,000 Words)
+Matthew -> (28 Chapters, ~1,070 Verses, ~23,350 Words)
+Mark -> (16 Chapters, ~680 Verses, ~14,950 Words)
+Luke -> (24 Chapters, ~1,150 Verses, ~25,000 Words)
+John -> (21 Chapters, ~880 Verses, ~15,650 Words)
+
+History: Acts -> (28 Chapters, ~1,010 Verses, ~24,500 Words)
+
+The Pauline Epistles: (13 Books, 87 Chapters, ~2140 Verses, ~43,700 Words)
+Romans -> (16 Chapters, ~430 Verses, ~9,500 Words)
+1 Corinthians -> (16 Chapters, ~440 Verses, ~10,000 Words)
+2 Corinthians -> (13 Chapters, ~260 Verses, ~6,000 Words)
+Galatians -> (6 Chapters, ~250 Verses, ~3,100 Words)
+Ephesians -> (6 Chapters, ~155 Verses, ~3,020 Words)
+Philippians -> (4 Chapters, ~105 Verses, ~2,180 Words)
+Colossians -> (4 Chapters, ~95 Verses, ~1,980 Words)
+1 Thessalonians -> (5 Chapters, ~90 Verses, ~1,840 Words)
+2 Thessalonians -> (3 Chapters, ~50 Verses, ~1,020 Words)
+1 Timothy -> (6 Chapters, ~110 Verses, ~2,250 Words)
+2 Timothy -> (4 Chapters, ~82 Verses, ~1,600 Words)
+Titus -> (3 Chapters, ~45 Verses, ~900 Words)
+Philemon -> (1 Chapter, 25 Verses, ~430 Words)
+
+General Epistles: (8 Books, 34 Chapters, ~730 Verses, ~16,900 Words)
+Hebrews -> (13 Chapters, ~300 Verses, ~7,000 Words)
+James -> (5 Chapters, ~110 Verses, ~2,300 Words)
+1 Peter -> (5 Chapters, ~105 Verses, ~2,480 Words)
+2 Peter -> (3 Chapters, ~60 Verses, ~1,550 Words)
+1 John -> (5 Chapters, ~105 Verses, ~2,300 Words)
+2 John -> (1 Chapter, 13 Verses, ~300 Words)
+3 John -> (1 Chapter, 14 Verses, ~290 Words)
+Jude -> (1 Chapter, 25 Verses, ~610 Words)
+
+Apocrypha: Revelations -> (22 Chapters, ~400 Verses, ~11,950 Words)
+
+-----------------------------------------------------------------------------------------
+
+Put Together by Guillermo Gonzalez
+This data originates, or the derivation thereof, from an AI language model by OpenAI and has been lightly cross-referenced for accuracy. The information presented on this website has been collected and utilized in compliance with applicable legal guidelines.
+Please also note that many figures are approximations (~) and/or rounded; they almost certainly differ across Bible editions due to factors such as translation nuances, formatting, textual variations, and differing word counting methods.
